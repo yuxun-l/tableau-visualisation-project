@@ -83,7 +83,15 @@ Projection of future performance, with profit forecast up to Q4 2025.
 
 ## Data
 
-The dataset was provided as part of the ST2187 course and contains sales and profit records from 2020 to 2023.
+The dataset was provided as part of the ST2187 course and contains order-level sales and profit records from 2020 to 2023. It has 51,229 rows, each representing one order line, across 24 fields:
+
+| Group | Fields |
+|---|---|
+| Order | Row ID, Order ID, Order Date, Ship Date, Ship Mode, Order Priority |
+| Customer | Customer ID, Customer Name, Segment |
+| Location | City, State, Country, Postal Code, Market, Region |
+| Product | Product ID, Category, Sub-Category, Product Name |
+| Financials | Sales, Quantity, Discount, Profit, Shipping Cost |
 
 The dataset is included as `dataset.xlsx` for reference, and remains the property of its original provider.
 
