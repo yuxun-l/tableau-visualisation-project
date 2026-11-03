@@ -1,10 +1,8 @@
 # Business Performance Dashboards (Tableau)
 
-A Tableau analysis of company sales and profit data from 2020 to 2023, covering five dashboards (shown as screenshots below) and a profit forecast through Q4 2025.
+A Tableau analysis of company sales and profit data from 2020 to 2023, covering five dashboards and a profit forecast through Q4 2025.
 
-![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
-
-> Individual coursework project for **ST2187 Business Analytics, Applied Modelling and Prediction**, [University Name], [Year].
+> Individual coursework project for **ST2187 Business Analytics, Applied Modelling and Prediction**, SIM-UOL, 2025.
 
 ## Table of Contents
 
@@ -23,11 +21,9 @@ This project visualises the company-provided dataset in Tableau to give a clear 
 
 ## Dashboards
 
-Screenshots of each dashboard are shown below.
+The five dashboards are summarised below. View them in full in [tableau dashboard.pdf](tableau%20dashboard.pdf).
 
 ### 1. Profit and Sales Overview
-
-![Profit and Sales Overview](images/profit-sales-overview.png)
 
 A general view of business performance from 2020 to 2023.
 - Profit by country
@@ -36,15 +32,11 @@ A general view of business performance from 2020 to 2023.
 
 ### 2. Product Analysis
 
-![Product Analysis](images/product-analysis.png)
-
 Performance of each product category.
 - Sales and profit by category
 - Ship mode by category
 
 ### 3. Customer Analysis
-
-![Customer Analysis](images/customer-analysis.png)
 
 Insights into customer behaviour.
 - Top customers
@@ -53,16 +45,12 @@ Insights into customer behaviour.
 
 ### 4. Market Analysis
 
-![Market Analysis](images/market-analysis.png)
-
 Comparison of performance across markets.
 - Profit ratio by market
 - Sales by segment and market
 - Profit comparison between the United States and Turkey by sub-category
 
 ### 5. Profit Forecast
-
-![Profit Forecast](images/profit-forecast.png)
 
 Projection of future performance, with profit forecast up to Q4 2025.
 
@@ -84,22 +72,27 @@ Projection of future performance, with profit forecast up to Q4 2025.
 ## Project Structure
 
 ```
-├── report/        # Full written report
-└── images/        # Dashboard screenshots
+├── dataset.xlsx            # Dataset provided for the course
+├── tableau dashboard.pdf   # Dashboards exported from Tableau
+└── tableau report.docx     # Full written report
 ```
+
+- [Dashboards (PDF)](tableau%20dashboard.pdf)
+- [Full report (Word)](tableau%20report.docx)
+- [Dataset (Excel)](dataset.xlsx)
 
 ## Data
 
-The dataset was provided as part of the ST2187 course and contains sales and profit records from 2020 to 2023. [Add details such as number of rows and key fields.]
+The dataset was provided as part of the ST2187 course and contains sales and profit records from 2020 to 2023.
 
-The dataset is not included in this repository, as it was supplied for coursework and may not be redistributed.
+The dataset is included as `dataset.xlsx` for reference, and remains the property of its original provider.
 
 ## Author
 
-[Your Name] · [LinkedIn or email]
+Liu Yu Xun · https://www.linkedin.com/in/yu-xun-liu/
 
 This was completed as an individual project.
 
 ## License
 
-The analysis, dashboards, and written content are © [Your Name] [Year]. The underlying dataset belongs to its original provider and is not covered by this license.
+The analysis, dashboards, and written content are done by © Liu Yu Xun 2025. The dataset (`dataset.xlsx`) belongs to its original provider and is not covered by this license.
