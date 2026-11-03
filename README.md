@@ -74,7 +74,7 @@ Projection of future performance, with profit forecast up to Q4 2025.
 ```
 ├── dataset.xlsx            # Dataset provided for the course
 ├── tableau dashboard.pdf   # Dashboards exported from Tableau
-└── tableau report.docx     # Full written report
+├── tableau report.docx     # Full written report
 └── README.md
 ```
 
