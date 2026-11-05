@@ -104,4 +104,4 @@ This was completed as an individual project.
 
 ## License
 
-The analysis, dashboards, and written content are done by © Liu Yu Xun 2025. The dataset (`dataset.xlsx`) belongs to its original provider and is not covered by this license.
+The analysis, dashboards, and written content are © Liu Yu Xun 2025. The dataset (`dataset.xlsx`) belongs to its original provider and is not covered by this license.
